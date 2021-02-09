@@ -1,0 +1,32 @@
+2021-02-04 18:34:26,348, INFO, :test_e2e, getting all the card titles
+2021-02-04 18:34:26,669, INFO, :test_e2e, Entering the location as India
+2021-02-04 18:34:31,959, INFO, :test_e2e, Success alert text received which is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-04 18:54:00,246, INFO, :test_homePage, first name is Neeraj
+2021-02-04 18:54:00,762, INFO, :test_homePage, first name is Priya
+2021-02-04 18:54:00,762, INFO, :test_homePage, first name is Priya
+2021-02-04 18:54:06,653, INFO, :test_e2e, getting all the card titles
+2021-02-04 18:54:06,913, INFO, :test_e2e, Entering the location as India
+2021-02-04 18:54:12,275, INFO, :test_e2e, Success alert text received which is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-04 19:05:41,021, INFO, :test_homePage, first name is Neeraj
+2021-02-04 19:05:41,585, INFO, :test_homePage, first name is Priya
+2021-02-04 19:05:41,585, INFO, :test_homePage, first name is Priya
+2021-02-04 19:05:48,020, INFO, :test_e2e, getting all the card titles
+2021-02-04 19:05:48,314, INFO, :test_e2e, Entering the location as India
+2021-02-04 19:05:53,655, INFO, :test_e2e, Success alert text received which is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-04 19:11:39,401, INFO, :test_homePage, first name is Neeraj
+2021-02-04 19:11:39,967, INFO, :test_homePage, first name is Priya
+2021-02-04 19:11:39,967, INFO, :test_homePage, first name is Priya
+2021-02-04 19:11:48,227, INFO, :test_e2e, getting all the card titles
+2021-02-04 19:11:48,532, INFO, :test_e2e, Entering the location as India
+2021-02-04 19:11:53,870, INFO, :test_e2e, Success alert text received which is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-04 19:43:18,974, INFO, :test_homePage, first name is Neeraj
+2021-02-04 19:43:19,523, INFO, :test_homePage, first name is Priya
+2021-02-04 19:43:19,523, INFO, :test_homePage, first name is Priya
+2021-02-04 19:43:25,625, INFO, :test_e2e, getting all the card titles
+2021-02-04 19:43:25,951, INFO, :test_e2e, Entering the location as India
+2021-02-04 19:43:31,301, INFO, :test_e2e, Success alert text received which is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
