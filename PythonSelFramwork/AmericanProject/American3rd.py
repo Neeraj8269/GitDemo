@@ -24,17 +24,32 @@ class TestHomePage(BaseClass):
     # My Name is Neeraj
     # i am adding this comment
 
-    class Kumar(BaseClass):
-        def test_homePage(self, getData):
-            log = self.getLogger()
-            self.driver.implicitly_wait(2)
-            homepage = HomePage(self.driver)
-            log.info("first name is " + getData["FirstName"])
-            homepage.getName().send_keys(getData["FirstName"])
-            homepage.getEmail().send_keys(getData["LastName"])
-            homepage.getPassword().send_keys("Test@123")
-            homepage.getCheckbox().click()
-            self.SelectGender(homepage.getGender(), getData["Gender"])
-            homepage.getSubmitButton().click()
-            self.driver.refresh()
+class Kumar(BaseClass):
+    def test_homePage(self, getData):
+        log = self.getLogger()
+        self.driver.implicitly_wait(2)
+        homepage = HomePage(self.driver)
+        log.info("first name is " + getData["FirstName"])
+        homepage.getName().send_keys(getData["FirstName"])
+        homepage.getEmail().send_keys(getData["LastName"])
+        homepage.getPassword().send_keys("Test@123")
+        homepage.getCheckbox().click()
+        self.SelectGender(homepage.getGender(), getData["Gender"])
+        homepage.getSubmitButton().click()
+        self.driver.refresh()
+
+class Kumar(BaseClass):
+    def test_homePage(self, getData):
+        log = self.getLogger()
+        self.driver.implicitly_wait(2)
+        homepage = HomePage(self.driver)
+        log.info("first name is " + getData["FirstName"])
+        homepage.getName().send_keys(getData["FirstName"])
+        homepage.getEmail().send_keys(getData["LastName"])
+        homepage.getPassword().send_keys("Test@123")
+        homepage.getCheckbox().click()
+        self.SelectGender(homepage.getGender(), getData["Gender"])
+        homepage.getSubmitButton().click()
+        self.driver.refresh()
+
 
